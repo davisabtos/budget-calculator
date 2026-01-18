@@ -1,37 +1,37 @@
-# CatRate - Calculadora de Orçamentos Para Freelancers
+# CatRate - Budget Calculator for Freelancers
 
-Este é um projeto de uma aplicação web que auxilia freelancers a precificarem seus serviços com base em custos, horas trabalhadas e margem de lucro desejada. Desenvolvido com HTML, CSS, JavaScript e Bootstrap, o objetivo é criar uma ferramenta intuitiva e eficiente para a precificação justa de serviços freelance.
+This is a web application project that helps freelancers price their services based on costs, hours worked, and desired profit margin. Developed with HTML, CSS, JavaScript, and Bootstrap, the goal is to create an intuitive and efficient tool for the fair pricing of freelance services.
 
-## Como usar
+## How to use
 
-1.  Abra o arquivo `index.html` em um navegador ou acesse o [site](https://davisabtos.github.io/calculadora-orcamentos/).
-2.  Preencha os campos com as informações solicitadas e clique em "Calcular".
+1. Open the `index.html` file in a browser or access the [website](https://davisabtos.github.io/budget-calculator/).
+2. Fill in the fields with the requested information and click "Calculate".
 
-## Funcionalidades
+## Features
 
-* Cálculo de preço do serviço com base em custos e horas trabalhadas.
-* Definição de margem de lucro personalizada.
-* Interface amigável e responsiva.
+* Service price calculation based on costs and hours worked.
+* Custom profit margin setting.
+* User-friendly and responsive interface.
 
-## Tecnologias utilizadas
+## Technologies used
 
 * HTML
 * CSS
 * JavaScript
 * Bootstrap
 
-## Autor
+## Author
 
-* [Davi dos Santos (D.V)](https://github.com/davisabtos)
+* [Davi dos Santos Cavalcanti (D.V)](https://github.com/davisabtos)
 
-## Futuras Adições
+## Future Additions
 
-* **Persistência de Dados:** Implementar funcionalidades para salvar e recuperar orçamentos, facilitando o acompanhamento e a gestão.
-* **Integração com Plataformas de Pagamento:** Adicionar opções para gerar links de pagamento diretamente a partir do orçamento calculado.
-* **Relatórios e Gráficos:** Desenvolver recursos para gerar relatórios visuais dos orçamentos, auxiliando na análise de rentabilidade.
-* **Personalização de Moedas:** Permitir a seleção e conversão de diferentes moedas para atender a freelancers internacionais.
-* **Cálculo de Impostos e Taxas:** Adicionar a funcionalidade de calcular automaticamente impostos e taxas aplicáveis ao serviço.
-* **Integração com Calendário:** Implementar um calendário integrado para agendar prazos de entrega e acompanhar projetos.
-* **Otimização para Dispositivos Móveis:** Aprimorar a responsividade e usabilidade da aplicação em dispositivos móveis.
-* **Funcionalidade de Exportar Orçamento:** Adicionar a funcionalidade de exportar o orçamento em pdf ou em outros formatos.
-* **Feedback do Usuário:** Adicionar uma funcionalidade de feedback do usuário para que os usuários possam dar feedback sobre a aplicação.
+* **Data Persistence:** Implement functionalities to save and retrieve quotes, facilitating tracking and management.
+* **Integration with Payment Platforms:** Add options to generate payment links directly from the calculated quote.
+* **Reports and Graphs:** Develop features to generate visual reports of quotes, assisting in profitability analysis.
+* **Currency Customization:** Allow the selection and conversion of different currencies to meet the needs of international freelancers.
+* **Tax and Fee Calculation:** Add the functionality to automatically calculate taxes and fees applicable to the service.
+* **Calendar Integration:** Implement an integrated calendar to schedule deadlines and track projects.
+* **Mobile Optimization:** Improve the responsiveness and usability of the application on mobile devices.
+* **Quote Export Functionality:** Add the functionality to export the quote as a PDF or other formats.
+* **User Feedback:** Add a user feedback feature so that users can provide feedback on the application.
